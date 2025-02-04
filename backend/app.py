@@ -1,8 +1,8 @@
 from flask import Flask, request, jsonify
 from flask_cors import CORS  # To handle CORS
-from backend.models.seeker import Seeker  # Import Seeker model
-from backend.models.missionary import Missionary  # Import Missionary model (you can implement this later)
-from backend.models.message import Message  # Import Message model (you can implement this later)
+from models.seeker import Seeker  # Import Seeker model
+from models.missionary import Missionary  # Import Missionary model (you can implement this later)
+from models.message import Message  # Import Message model (you can implement this later)
 from datetime import datetime
 import json  # Import for pretty printing the received data
 
