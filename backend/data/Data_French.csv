@@ -1,0 +1,100 @@
+contact_uuid,first_name,last_name,source,language_code,decision,country,region,state,messages,topic
+1a2b3c4d5e6f7g8h9i0j,Pierre,Moreau,Email,fr,Christian - grow in my faith,France,Île-de-France,Paris,"""I have been struggling with alcohol for years, and I need strength to overcome it.""",alcoholism and drug addiction
+2b3c4d5e6f7g8h9i0j1a,Jacques,Dubois,Website,fr,I am not sure about Jesus,Canada,Québec,Quebec,"""I lost my family because of drugs, and I am searching for a new beginning.""",alcoholism and drug addiction
+3c4d5e6f7g8h9i0j1a2b,Sophie,Lefevre,Social Media,fr,I just decided to follow Jesus,Belgium,Wallonia,Liège,"""I have tried to quit drinking many times, but I always relapse. Please help me.""",alcoholism and drug addiction
+4d5e6f7g8h9i0j1a2b3c,Alain,Bernard,Referral,fr,I want to come back to Jesus,Switzerland,Vaud,Lausanne,"""Addiction has taken everything from me. I need guidance to rebuild my life.""",alcoholism and drug addiction
+5e6f7g8h9i0j1a2b3c4d,Chloé,Fontaine,Email,fr,I do not want to follow Jesus,France,Provence,Marseille,"""I drink to escape my problems, but I know it's destroying me. I don’t know what to do.""",alcoholism and drug addiction
+6f7g8h9i0j1a2b3c4d5e,Luc,Martin,Website,fr,Christian - grow in my faith,Canada,Ontario,Toronto,"""My faith helps, but I still battle addiction daily. I need prayers and support.""",alcoholism and drug addiction
+7g8h9i0j1a2b3c4d5e6f,Élodie,Rousseau,Social Media,fr,I am not sure about Jesus,Belgium,Flanders,Antwerp,"""I started using drugs to feel alive, but now I feel empty. Can faith help me?""",alcoholism and drug addiction
+8h9i0j1a2b3c4d5e6f7g,Mathieu,Chevalier,Referral,fr,I just decided to follow Jesus,France,Brittany,Rennes,"""I have been sober for a month, but I fear falling back. I need strength.""",alcoholism and drug addiction
+9i0j1a2b3c4d5e6f7g8h,Isabelle,Laurent,Email,fr,I want to come back to Jesus,Switzerland,Geneva,Geneva,"""I lost faith when addiction took hold. Now, I want to believe again.""",alcoholism and drug addiction
+0j1a2b3c4d5e6f7g8h9i,Théo,Dupont,Website,fr,I do not want to follow Jesus,Canada,Quebec,Montreal,"""Rehab didn't work for me. I feel lost and don't know where to turn.""",alcoholism and drug addiction
+1a3b5d7f9h0j2c4e6g8i,Camille,Petit,Social Media,fr,Christian - grow in my faith,Belgium,Brussels,Brussels,"""I want to help others struggling with addiction, but I still battle my own demons.""",alcoholism and drug addiction
+2b4d6f8h0j1c3e5g7i9a,Hugo,Girard,Referral,fr,I am not sure about Jesus,France,Normandy,Rouen,"""I thought I had control over drinking, but now it controls me. Can I be saved?""",alcoholism and drug addiction
+3c5e7g9i1a2b4d6f8h0j,Manon,Leroy,Email,fr,I just decided to follow Jesus,Canada,New Brunswick,Moncton,"""Jesus gives me hope, but my cravings are strong. How do I stay on this path?""",alcoholism and drug addiction
+4d6f8h0j2b3e5g7i9a1c,Vincent,Morel,Website,fr,I want to come back to Jesus,Switzerland,Zurich,Zurich,"""I was sober for years, but I relapsed. I feel ashamed and need guidance.""",alcoholism and drug addiction
+5e7g9i1a3b4d6f8h0j2c,Clara,Lambert,Social Media,fr,I do not want to follow Jesus,Belgium,Wallonia,Namur,"""Religion never helped me before. I just want to stop feeling like this.""",alcoholism and drug addiction
+6f8h0j2b4d6e7g9i1a3c5,Adrien,Robin,Referral,fr,Christian - grow in my faith,France,Occitanie,Toulouse,"""God has helped me through hard times, but addiction keeps pulling me back.""",alcoholism and drug addiction
+7g9i1a3b5d7f8h0j2c4e,Marion,Blanchard,Email,fr,I am not sure about Jesus,Canada,Manitoba,Winnipeg,"""I want to quit drugs, but I feel like I have no strength left to fight.""",alcoholism and drug addiction
+8h0j2b4d6f8g9i1a3c5e7,Julien,Renaud,Website,fr,I just decided to follow Jesus,Switzerland,Bern,Bern,"""Faith gave me hope, but addiction is still a heavy burden. I need help.""",alcoholism and drug addiction
+9i1a3b5d7f9h0j2c4e6g8,Élise,Marchand,Social Media,fr,I want to come back to Jesus,Belgium,Flanders,Ghent,"""I strayed from faith when I started drinking. I want to return and heal.""",alcoholism and drug addiction
+1a2b3c4d5e6f7g8h9i0j,Pierre,Moreau,Email,fr,Christian - grow in my faith,France,Île-de-France,Paris,"""I feel lost and overwhelmed. Life’s struggles are too much for me to handle alone.""",crisis
+2b3c4d5e6f7g8h9i0j1a,Jacques,Dubois,Website,fr,I am not sure about Jesus,Canada,Québec,Quebec,"""I have lost my job and my home. I don’t know where to turn or what to do next.""",crisis
+3c4d5e6f7g8h9i0j1a2b,Sophie,Lefevre,Social Media,fr,I just decided to follow Jesus,Belgium,Wallonia,Liège,"""Everything is falling apart in my life. I need strength to get through this storm.""",crisis
+4d5e6f7g8h9i0j1a2b3c,Alain,Bernard,Referral,fr,I want to come back to Jesus,Switzerland,Vaud,Lausanne,"""I have been battling depression and anxiety. I need hope and a way out of this pain.""",crisis
+5e6f7g8h9i0j1a2b3c4d,Chloé,Fontaine,Email,fr,I do not want to follow Jesus,France,Provence,Marseille,"""Nothing seems to make sense anymore. I feel completely alone in my struggles.""",crisis
+6f7g8h9i0j1a2b3c4d5e,Luc,Martin,Website,fr,Christian - grow in my faith,Canada,Ontario,Toronto,"""I am trying to trust God, but my problems seem too big to handle on my own.""",crisis
+7g8h9i0j1a2b3c4d5e6f,Élodie,Rousseau,Social Media,fr,I am not sure about Jesus,Belgium,Flanders,Antwerp,"""I am struggling with a personal crisis, and I don’t know if faith can really help me.""",crisis
+8h9i0j1a2b3c4d5e6f7g,Mathieu,Chevalier,Referral,fr,I just decided to follow Jesus,France,Brittany,Rennes,"""I feel like I have hit rock bottom. I need guidance and a fresh start.""",crisis
+9i0j1a2b3c4d5e6f7g8h,Isabelle,Laurent,Email,fr,I want to come back to Jesus,Switzerland,Geneva,Geneva,"""I have been away from faith for so long. I need something to hold on to.""",crisis
+0j1a2b3c4d5e6f7g8h9i,Théo,Dupont,Website,fr,I do not want to follow Jesus,Canada,Quebec,Montreal,"""I have no purpose left. Everything I worked for is gone. I feel completely empty.""",crisis
+1a3b5d7f9h0j2c4e6g8i,Camille,Petit,Social Media,fr,Christian - grow in my faith,Belgium,Brussels,Brussels,"""I believe in God, but I’m struggling to trust Him during these difficult times.""",crisis
+2b4d6f8h0j1c3e5g7i9a,Hugo,Girard,Referral,fr,I am not sure about Jesus,France,Normandy,Rouen,"""I keep asking myself why bad things happen. I don’t know if I can find peace again.""",crisis
+3c5e7g9i1a2b4d6f8h0j,Manon,Leroy,Email,fr,I just decided to follow Jesus,Canada,New Brunswick,Moncton,"""I am taking a step of faith, but I am scared. Life feels unstable right now.""",crisis
+4d6f8h0j2b3e5g7i9a1c,Vincent,Morel,Website,fr,I want to come back to Jesus,Switzerland,Zurich,Zurich,"""I need to believe that there is hope for me, but I feel so lost and broken.""",crisis
+5e7g9i1a3b4d6f8h0j2c,Clara,Lambert,Social Media,fr,I do not want to follow Jesus,Belgium,Wallonia,Namur,"""Faith has never been part of my life, but I am desperate for answers now.""",crisis
+6f8h0j2b4d6e7g9i1a3c5,Adrien,Robin,Referral,fr,Christian - grow in my faith,France,Occitanie,Toulouse,"""God has helped me before, but this crisis feels different. I feel completely drained.""",crisis
+7g9i1a3b5d7f8h0j2c4e,Marion,Blanchard,Email,fr,I am not sure about Jesus,Canada,Manitoba,Winnipeg,"""I don’t know if faith can help me, but I am desperate for something to change.""",crisis
+8h0j2b4d6f8g9i1a3c5e7,Julien,Renaud,Website,fr,I just decided to follow Jesus,Switzerland,Bern,Bern,"""I’ve made mistakes, and now I feel like I am paying the price. Can I be forgiven?""",crisis
+9i1a3b5d7f9h0j2c4e6g8,Élise,Marchand,Social Media,fr,I want to come back to Jesus,Belgium,Flanders,Ghent,"""I turned away from faith when life got hard. Now, I want to find my way back.""",crisis
+1a2b3c4d5e6f7g8h9i0j,Pierre,Moreau,Email,fr,Christian - grow in my faith,France,Île-de-France,Paris,"""My marriage is falling apart, and I don’t know how to fix it. I need guidance.""",family and marriage
+2b3c4d5e6f7g8h9i0j1a,Jacques,Dubois,Website,fr,I am not sure about Jesus,Canada,Québec,Quebec,"""My spouse and I argue constantly. I wonder if love can truly heal our wounds.""",family and marriage
+3c4d5e6f7g8h9i0j1a2b,Sophie,Lefevre,Social Media,fr,I just decided to follow Jesus,Belgium,Wallonia,Liège,"""I want to build a strong family, but I fear I am not good enough.""",family and marriage
+4d5e6f7g8h9i0j1a2b3c,Alain,Bernard,Referral,fr,I want to come back to Jesus,Switzerland,Vaud,Lausanne,"""My partner has lost faith in our marriage. I want to fight for us, but I feel alone.""",family and marriage
+5e6f7g8h9i0j1a2b3c4d,Chloé,Fontaine,Email,fr,I do not want to follow Jesus,France,Provence,Marseille,"""I don’t believe in marriage anymore. It has only brought me pain and disappointment.""",family and marriage
+6f7g8h9i0j1a2b3c4d5e,Luc,Martin,Website,fr,Christian - grow in my faith,Canada,Ontario,Toronto,"""We used to pray together, but now we barely speak. I want to restore our love.""",family and marriage
+7g8h9i0j1a2b3c4d5e6f,Élodie,Rousseau,Social Media,fr,I am not sure about Jesus,Belgium,Flanders,Antwerp,"""My parents are separating, and I don’t know how to handle this pain.""",family and marriage
+8h9i0j1a2b3c4d5e6f7g,Mathieu,Chevalier,Referral,fr,I just decided to follow Jesus,France,Brittany,Rennes,"""I want my relationship to be centered on God, but I don’t know where to start.""",family and marriage
+9i0j1a2b3c4d5e6f7g8h,Isabelle,Laurent,Email,fr,I want to come back to Jesus,Switzerland,Geneva,Geneva,"""I was unfaithful, and now I fear I have lost my family. Can I find forgiveness?""",family and marriage
+0j1a2b3c4d5e6f7g8h9i,Théo,Dupont,Website,fr,I do not want to follow Jesus,Canada,Quebec,Montreal,"""Love is just an illusion. I don’t think marriage is worth fighting for anymore.""",family and marriage
+1a3b5d7f9h0j2c4e6g8i,Camille,Petit,Social Media,fr,Christian - grow in my faith,Belgium,Brussels,Brussels,"""I want to be a better spouse, but I don’t know how to break old habits.""",family and marriage
+2b4d6f8h0j1c3e5g7i9a,Hugo,Girard,Referral,fr,I am not sure about Jesus,France,Normandy,Rouen,"""My marriage is crumbling, and I am not sure if faith can save it.""",family and marriage
+3c5e7g9i1a2b4d6f8h0j,Manon,Leroy,Email,fr,I just decided to follow Jesus,Canada,New Brunswick,Moncton,"""I want to raise my children with faith, but I am struggling in my own beliefs.""",family and marriage
+4d6f8h0j2b3e5g7i9a1c,Vincent,Morel,Website,fr,I want to come back to Jesus,Switzerland,Zurich,Zurich,"""I neglected my marriage for too long. Now I want to rebuild what I destroyed.""",family and marriage
+5e7g9i1a3b4d6f8h0j2c,Clara,Lambert,Social Media,fr,I do not want to follow Jesus,Belgium,Wallonia,Namur,"""I don’t believe in love anymore. I think marriage is just a contract.""",family and marriage
+6f8h0j2b4d6e7g9i1a3c5,Adrien,Robin,Referral,fr,Christian - grow in my faith,France,Occitanie,Toulouse,"""I want to be the husband and father God calls me to be, but I feel inadequate.""",family and marriage
+7g9i1a3b5d7f8h0j2c4e,Marion,Blanchard,Email,fr,I am not sure about Jesus,Canada,Manitoba,Winnipeg,"""My partner is religious, but I am not. It’s tearing us apart.""",family and marriage
+8h0j2b4d6f8g9i1a3c5e7,Julien,Renaud,Website,fr,I just decided to follow Jesus,Switzerland,Bern,Bern,"""I want to love my spouse the way God loves us, but I struggle with my past.""",family and marriage
+9i1a3b5d7f9h0j2c4e6g8,Élise,Marchand,Social Media,fr,I want to come back to Jesus,Belgium,Flanders,Ghent,"""I walked away from my marriage and my faith. Now, I want to make things right.""",family and marriage
+1a2b3c4d5e6f7g8h9i0j,Pierre,Moreau,Email,fr,Christian - grow in my faith,France,Île-de-France,Paris,"""I feel overwhelmed with life. It’s hard to see the light at the end of the tunnel.""",general
+2b3c4d5e6f7g8h9i0j1a,Jacques,Dubois,Website,fr,I am not sure about Jesus,Canada,Québec,Quebec,"""I feel lost, like I have no direction. I don’t know what I truly believe in anymore.""",general
+3c4d5e6f7g8h9i0j1a2b,Sophie,Lefevre,Social Media,fr,I just decided to follow Jesus,Belgium,Wallonia,Liège,"""I am trying to change my life, but I keep falling back into old patterns.""",general
+4d5e6f7g8h9i0j1a2b3c,Alain,Bernard,Referral,fr,I want to come back to Jesus,Switzerland,Vaud,Lausanne,"""I left my faith behind, and now I feel like I need it more than ever.""",general
+5e6f7g8h9i0j1a2b3c4d,Chloé,Fontaine,Email,fr,I do not want to follow Jesus,France,Provence,Marseille,"""I don’t see the point in faith. Life is just a series of disappointments.""",general
+6f7g8h9i0j1a2b3c4d5e,Luc,Martin,Website,fr,Christian - grow in my faith,Canada,Ontario,Toronto,"""I believe in God, but I struggle to feel His presence in my daily life.""",general
+7g8h9i0j1a2b3c4d5e6f,Élodie,Rousseau,Social Media,fr,I am not sure about Jesus,Belgium,Flanders,Antwerp,"""I have so many questions about faith, but I don’t know where to find answers.""",general
+8h9i0j1a2b3c4d5e6f7g,Mathieu,Chevalier,Referral,fr,I just decided to follow Jesus,France,Brittany,Rennes,"""I want to change my life, but I am afraid of what it might cost me.""",general
+9i0j1a2b3c4d5e6f7g8h,Isabelle,Laurent,Email,fr,I want to come back to Jesus,Switzerland,Geneva,Geneva,"""I used to have faith, but life’s struggles made me turn away. Now, I want to return.""",general
+0j1a2b3c4d5e6f7g8h9i,Théo,Dupont,Website,fr,I do not want to follow Jesus,Canada,Quebec,Montreal,"""Faith doesn’t make sense to me. I feel like I have to figure life out on my own.""",general
+1a3b5d7f9h0j2c4e6g8i,Camille,Petit,Social Media,fr,Christian - grow in my faith,Belgium,Brussels,Brussels,"""I want to trust in God more, but I struggle with doubt and fear.""",general
+2b4d6f8h0j1c3e5g7i9a,Hugo,Girard,Referral,fr,I am not sure about Jesus,France,Normandy,Rouen,"""I feel like something is missing in my life, but I don’t know what it is.""",general
+3c5e7g9i1a2b4d6f8h0j,Manon,Leroy,Email,fr,I just decided to follow Jesus,Canada,New Brunswick,Moncton,"""Taking this step of faith is scary, but I know I need to make a change.""",general
+4d6f8h0j2b3e5g7i9a1c,Vincent,Morel,Website,fr,I want to come back to Jesus,Switzerland,Zurich,Zurich,"""I have made so many mistakes, but I want to believe there is still hope for me.""",general
+5e7g9i1a3b4d6f8h0j2c,Clara,Lambert,Social Media,fr,I do not want to follow Jesus,Belgium,Wallonia,Namur,"""I don’t see how faith can help me. Life is just too difficult.""",general
+6f8h0j2b4d6e7g9i1a3c5,Adrien,Robin,Referral,fr,Christian - grow in my faith,France,Occitanie,Toulouse,"""I want to trust God with my struggles, but I feel like I am drowning.""",general
+7g9i1a3b5d7f8h0j2c4e,Marion,Blanchard,Email,fr,I am not sure about Jesus,Canada,Manitoba,Winnipeg,"""I see people finding peace in faith, but I don’t know if it’s real.""",general
+8h0j2b4d6f8g9i1a3c5e7,Julien,Renaud,Website,fr,I just decided to follow Jesus,Switzerland,Bern,Bern,"""I want to start fresh and leave my past behind, but it’s hard to move on.""",general
+9i1a3b5d7f9h0j2c4e6g8,Élise,Marchand,Social Media,fr,I want to come back to Jesus,Belgium,Flanders,Ghent,"""I lost my way for a long time, but I feel like God is calling me back.""",general
+1a2b3c4d5e6f7g8h9i0j,Pierre,Moreau,Email,fr,Christian - grow in my faith,France,Île-de-France,Paris,"""I feel like I am constantly battling unseen forces trying to pull me away from God.""",spiritual warfare
+2b3c4d5e6f7g8h9i0j1a,Jacques,Dubois,Website,fr,I am not sure about Jesus,Canada,Québec,Quebec,"""I don’t know if spiritual battles are real, but I feel a deep inner struggle every day.""",spiritual warfare
+3c4d5e6f7g8h9i0j1a2b,Sophie,Lefevre,Social Media,fr,I just decided to follow Jesus,Belgium,Wallonia,Liège,"""Ever since I decided to follow Jesus, everything in my life feels like it’s falling apart.""",spiritual warfare
+4d5e6f7g8h9i0j1a2b3c,Alain,Bernard,Referral,fr,I want to come back to Jesus,Switzerland,Vaud,Lausanne,"""I used to feel strong in my faith, but now I feel like I’m constantly under attack.""",spiritual warfare
+5e6f7g8h9i0j1a2b3c4d,Chloé,Fontaine,Email,fr,I do not want to follow Jesus,France,Provence,Marseille,"""I feel like religion is just a way to explain struggles, but sometimes I wonder.""",spiritual warfare
+6f7g8h9i0j1a2b3c4d5e,Luc,Martin,Website,fr,Christian - grow in my faith,Canada,Ontario,Toronto,"""I know that spiritual battles are real, but I feel exhausted from fighting them.""",spiritual warfare
+7g8h9i0j1a2b3c4d5e6f,Élodie,Rousseau,Social Media,fr,I am not sure about Jesus,Belgium,Flanders,Antwerp,"""Sometimes I feel like there is something evil trying to keep me from peace.""",spiritual warfare
+8h9i0j1a2b3c4d5e6f7g,Mathieu,Chevalier,Referral,fr,I just decided to follow Jesus,France,Brittany,Rennes,"""I never believed in spiritual warfare until I started following Jesus.""",spiritual warfare
+9i0j1a2b3c4d5e6f7g8h,Isabelle,Laurent,Email,fr,I want to come back to Jesus,Switzerland,Geneva,Geneva,"""I turned away from faith, and ever since, I feel like something dark is trying to stop me.""",spiritual warfare
+0j1a2b3c4d5e6f7g8h9i,Théo,Dupont,Website,fr,I do not want to follow Jesus,Canada,Quebec,Montreal,"""People talk about spiritual battles, but I think life is just hard.""",spiritual warfare
+1a3b5d7f9h0j2c4e6g8i,Camille,Petit,Social Media,fr,Christian - grow in my faith,Belgium,Brussels,Brussels,"""I pray, but I feel like there’s a battle happening in my mind and heart every day.""",spiritual warfare
+2b4d6f8h0j1c3e5g7i9a,Hugo,Girard,Referral,fr,I am not sure about Jesus,France,Normandy,Rouen,"""If there is a God, why do I feel like something is always trying to break me down?""",spiritual warfare
+3c5e7g9i1a2b4d6f8h0j,Manon,Leroy,Email,fr,I just decided to follow Jesus,Canada,New Brunswick,Moncton,"""I gave my life to Jesus, but now I’m struggling in ways I never did before.""",spiritual warfare
+4d6f8h0j2b3e5g7i9a1c,Vincent,Morel,Website,fr,I want to come back to Jesus,Switzerland,Zurich,Zurich,"""I tried to walk away from faith, but now I feel like I’m being pulled back into a battle.""",spiritual warfare
+5e7g9i1a3b4d6f8h0j2c,Clara,Lambert,Social Media,fr,I do not want to follow Jesus,Belgium,Wallonia,Namur,"""People say demons and spirits are real, but I don’t believe in that.""",spiritual warfare
+6f8h0j2b4d6e7g9i1a3c5,Adrien,Robin,Referral,fr,Christian - grow in my faith,France,Occitanie,Toulouse,"""The closer I get to God, the more challenges I face. It feels like a war in my soul.""",spiritual warfare
+7g9i1a3b5d7f8h0j2c4e,Marion,Blanchard,Email,fr,I am not sure about Jesus,Canada,Manitoba,Winnipeg,"""I don’t know if spiritual warfare is real, but I do feel a deep internal struggle.""",spiritual warfare
+8h0j2b4d6f8g9i1a3c5e7,Julien,Renaud,Website,fr,I just decided to follow Jesus,Switzerland,Bern,Bern,"""Ever since I started praying, it feels like something is trying to pull me away.""",spiritual warfare
+9i1a3b5d7f9h0j2c4e6g8,Élise,Marchand,Social Media,fr,I want to come back to Jesus,Belgium,Flanders,Ghent,"""I walked away from faith, but I feel like I am in a battle I don’t understand.""",spiritual warfare
+0a2c4e6g8i1b3d5f7h9j,Louis,Gauthier,Referral,fr,Christian - grow in my faith,France,Nouvelle-Aquitaine,Bordeaux,"""I feel like the enemy is constantly trying to weaken my faith through doubt and fear.""",spiritual warfare
+1b3d5f7h9j0a2c4e6g8i,Jeanne,Perrault,Email,fr,I am not sure about Jesus,Canada,Quebec,Montreal,"""I don't know if I believe in spiritual battles, but I feel a heavy burden I can't explain.""",spiritual warfare
+2c4e6g8i1b3d5f7h9j0a,Bastien,Renault,Website,fr,I just decided to follow Jesus,Switzerland,Ticino,Lugano,"""Since giving my life to Christ, I feel like I’m being tested more than ever.""",spiritual warfare
+3d5f7h9j0a2c4e6g8i1b,Léa,Carpentier,Social Media,fr,I want to come back to Jesus,Belgium,Wallonia,Charleroi,"""I turned away from my faith, but now I feel like something is pushing me back toward God.""",spiritual warfare
